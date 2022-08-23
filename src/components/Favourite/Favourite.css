@@ -1,0 +1,27 @@
+.fav_container{
+    padding: 0;
+    width: 100vw;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+        display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+    /* background-color: cadetblue; */
+}
+
+
+.fav_sub_container{
+margin: 20px;
+}
+
+.fav_item_img{
+padding: 4px 4px 0 4px;
+border: 2px solid orange;
+}
+
+.fav_item_name{
+    margin-top: 3px;
+    color: orange;
+}
